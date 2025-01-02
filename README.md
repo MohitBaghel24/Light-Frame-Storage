@@ -10,7 +10,7 @@ LightFrameStorage is a GitHub repository for organizing and preserving your phot
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/LightFrameStorage.git
+   git clone https://github.com/mohitbaghel/LightFrameStorage.git
    ```
 2. Add your photos to relevant folders.
 3. Commit and push changes:
@@ -21,4 +21,4 @@ LightFrameStorage is a GitHub repository for organizing and preserving your phot
    ```
 
 ## Contact
-For questions or suggestions, reach out at [Your Email].
+For questions or suggestions, reach out at [mohitbaghel0202@gmail.com].
